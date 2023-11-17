@@ -7,6 +7,8 @@ Passionate and Curious about computer science and its applications.
 - I am currently learning Data structures and alogorithms and front end development!!
 - I am new but very excited to contribute to open source !📖
 - I have special love for sky , space and  astrophysics! 🌙🌃
+
+<a href="https://www.linkedin.com/in/rehan-chalana-933156295/" <img src="./images/linkedin.svg">>
   
 
 
