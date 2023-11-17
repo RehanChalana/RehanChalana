@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi People!!! ✨✨
+
+I am a 17 year old BE-CSE student at chitkara university.
+Passionate and Curious about computer science and its applications.
+
+- I am comfortable with working in java and python! 💻
+- I am currently learning Data structures and alogorithms and front end development!!
+- I am new but very excited to contribute to open source !📖
+- I have special love for sky , space and  astrophysics! 🌙🌃
+  
+
+
+
 
 <!--
 **RehanChalana/RehanChalana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
