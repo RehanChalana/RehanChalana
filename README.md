@@ -1,14 +1,22 @@
-### Hi People!!! ✨✨
+# Hi People!!! ✨✨ 
+# Rehan Chalana this side
 
-I am a 17 year old BE-CSE student at chitkara university.
+- Student at chitkara university
+- 17 year old
+- BE-CSE'27
+
 Passionate and Curious about computer science and its applications.
 
+# My skills,learnings and hobbies
 - I am comfortable with working in java and python! 💻
-- I am currently learning Data structures and alogorithms and front end development!!
+- I am currently learning Data structures and alogorithms as well as  front end development!!
 - I am new but very excited to contribute to open source !📖
 - I have special love for sky , space and  astrophysics! 🌙🌃
 
-<a href="https://www.linkedin.com/in/rehan-chalana-933156295/" <img src="./images/linkedin.svg">>
+- Connect with me !🤝  <a href="https://www.linkedin.com/in/rehan-chalana-933156295/"><img  src="./images/linkedin.svg" alt="Rehan Chalana | Linkedin" width="21px"/></a>
+
+
+
   
 
 
