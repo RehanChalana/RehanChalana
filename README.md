@@ -14,6 +14,9 @@ Passionate and Curious about computer science and its applications.
 - I am new but very very excited to contribute to open source !📖
 - I have special love for sky , space and  astrophysics! 🌙🌃
 
+# Tech Stack i have worked with
+| Java | Python | HTML | CSS | JavaScript | git | Supabase |
+
 
 Connect with me !🤝 <a href="https://www.linkedin.com/in/rehan-chalana-933156295/"><img  src="./images/linkedin.svg" alt="Rehan Chalana | Linkedin" width="21px"/></a>
 
