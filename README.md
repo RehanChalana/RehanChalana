@@ -2,6 +2,7 @@
 
 
 - Student at chitkara university
+- Technical Team Member at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh)
 - 17 year old
 - He/Him
 - BE-CSE'27
