@@ -1,5 +1,5 @@
-# Hi People!!! ✨✨ 
-# Rehan Chalana this side
+# Hello World!✨ , I'm Rehan Chalana 
+
 
 - Student at chitkara university
 - 17 year old
@@ -8,7 +8,7 @@
 
 Passionate and Curious about computer science and its applications.
 
-# My skills,learnings and hobbies
+## My skills,learnings and hobbies 
 - I am comfortable with working in java and python! 💻
 - I am currently learning Data structures and Alogorithms in Java!! ➕⭕
 - I am new but very very excited to contribute to open source !📖
@@ -22,13 +22,13 @@ Passionate and Curious about computer science and its applications.
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
+## 📊 GitHub Stats:
+[![RehanChalana's GitHub | Stats](https://stats.quine.sh/RehanChalana/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RehanChalana)
 
-# Projects
-<a href="https://github.com/RehanChalana/Expense-Tracker-">Expense Tracker</a>
 
-
-Connect with me !🤝 <a href="https://www.linkedin.com/in/rehan-chalana-933156295/"><img  src="./images/linkedin.svg" alt="Rehan Chalana | Linkedin" width="21px"/></a>
-
+## Connect with me !🤝 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/rehan_chalana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/udayan-s-7a8600246/](https://www.linkedin.com/in/rehan-chalana-933156295/))
+![](https://komarev.com/ghpvc/?username=RehanChalana&color=green)
 
 
   
