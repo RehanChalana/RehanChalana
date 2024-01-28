@@ -10,8 +10,8 @@
 Passionate and Curious about computer science and its applications.
 
 ## My skills,learnings and hobbies 
-- I am comfortable with working in java and python! 💻
 - I am currently learning Data structures and Alogorithms in Java!! ➕⭕
+- I am also learning Spring/Spring boot Framework ! ♨️
 - I am new but very very excited to contribute to open source !📖
 - I have special love for sky , space and  astrophysics! 🌙🌃
 
