@@ -1,19 +1,9 @@
 # Hello World!✨ , I'm Rehan Chalana 
 
 
-- Student at chitkara university
-- Technical Team Member at [Open Source Chandigarh](https://github.com/Open-Source-Chandigarh)
-- 17 year old
-- He/Him
-- BE-CSE'27
-
-Passionate and Curious about computer science and its applications.
-
-## My skills,learnings and hobbies 
-- I am currently learning Data structures and Alogorithms in Java!! ➕⭕
-- I am also learning Spring/Spring boot Framework ! ♨️
-- I am new but very very excited to contribute to open source !📖
-- I have special love for sky , space and  astrophysics! 🌙🌃
+- Data structures and Alogorithms in Java!! ➕⭕
+- Spring/Spring boot ! ♨️
+- sky , space and  astrophysics! 🌙🌃
 
 # Tech Stack 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -35,6 +25,11 @@ Passionate and Curious about computer science and its applications.
 
 ## 📊 GitHub Stats:
 [![RehanChalana's GitHub | Stats](https://stats.quine.sh/RehanChalana/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RehanChalana)
+
+
+ <a href="https://open.spotify.com/user/31tsc7by5c4hiqywydb2la6s6fga"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tsc7by5c4hiqywydb2la6s6fga&count=1" alt="Spotify"/>
+ </a>
 
 
 ## Connect with me !🤝 
