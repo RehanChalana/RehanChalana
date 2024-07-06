@@ -33,9 +33,7 @@
 
 
 ## Connect with me !🤝 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/rehan_chalana)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-chalana-933156295/)
-![](https://komarev.com/ghpvc/?username=RehanChalana&color=green)
 
 
   
