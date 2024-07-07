@@ -34,6 +34,7 @@
 
 ## Connect with me !🤝 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-chalana-933156295/)
+ ![](https://komarev.com/ghpvc/?username=RehanChalana&color=green)
 
 
   
