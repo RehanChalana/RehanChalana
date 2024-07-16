@@ -1,4 +1,21 @@
-# Hello World!✨ , I'm Rehan Chalana 
+<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+#  Hello, World 👋 
+
+#  I am Rehan Chalana 🧑‍💻
+
+<p>
+  
+  <a href="https://github.com/RehanChalana">
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/github.png"/>
+  </a>  
+  <a href= "https://www.linkedin.com/in/rehan-chalana-933156295/">
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/linkedin.png"/>
+  </a>
+  <a href="mailto:rehanchalanaprsnl@gmail.com">
+    <img src="https://img.icons8.com/material-outlined/30/ffffff/mail.png"/>
+  </a> 
+</p>
 
 
 - Data structures and Alogorithms in Java!! ➕⭕
@@ -32,8 +49,6 @@
  </a>
 
 
-## Connect with me !🤝 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-chalana-933156295/)
  ![](https://komarev.com/ghpvc/?username=RehanChalana&color=green)
 
 
