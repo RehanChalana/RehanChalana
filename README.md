@@ -18,9 +18,10 @@
 </p>
 
 
-- Data structures and Alogorithms in Java!! ➕⭕
-- Spring/Spring boot ! ♨️
-- sky , space and  astrophysics! 🌙🌃
+- 🌱 I’m currently learning spring/springboot and DSA.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about space , anime , movies, astrophysics and harry potter!.
+- ⚡ Fun fact: Hogwarts slogan is "Draco Dormiens Nunquam Titillandus," which translates from Latin to "Never Tickle a Sleeping Dragon."
 
 # Tech Stack 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
