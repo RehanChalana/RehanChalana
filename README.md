@@ -42,7 +42,7 @@
 
 
 ## 📊 GitHub Stats:
-[![RehanChalana's GitHub | Stats](https://stats.quine.sh/RehanChalana/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RehanChalana)
+[![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanChalana&show=prs_merged&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
  <a href="https://open.spotify.com/user/31tsc7by5c4hiqywydb2la6s6fga"/>
