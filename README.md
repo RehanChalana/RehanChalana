@@ -46,6 +46,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanChalana&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## ✍️Quote Of The Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
