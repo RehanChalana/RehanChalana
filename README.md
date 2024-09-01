@@ -42,7 +42,9 @@
 
 
 ## 📊 GitHub Stats:
-[![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanChalana&show=prs_merged&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanChalana&show=prs_merged&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanChalana&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
