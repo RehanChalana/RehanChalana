@@ -45,9 +45,6 @@
 [![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanChalana&show=prs_merged&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <a href="https://open.spotify.com/user/31tsc7by5c4hiqywydb2la6s6fga"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tsc7by5c4hiqywydb2la6s6fga&count=1" alt="Spotify"/>
- </a>
 
 
  ![](https://komarev.com/ghpvc/?username=RehanChalana&color=green)
